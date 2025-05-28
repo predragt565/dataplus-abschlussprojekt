@@ -10,7 +10,7 @@ Hier findest du Code-Beispiele, Erklärungen und Dokumentationen zum Abschlusspr
 - Python 3 oder höhere Version installieren
 - Repository klonen:
   
-  git clone  `git@github.com:Olexandr-Andriyenko/abschlussprojekt.git` <project_name>
+  git clone  `git@github.com:predragt565/dataplus-abschlussprojekt.git` <project_name>
   
 - Gehe dann in das Projektverzeichnis:
   
@@ -34,7 +34,7 @@ Hier findest du Code-Beispiele, Erklärungen und Dokumentationen zum Abschlusspr
 - Python 3 oder höhere Version installieren
 - Repository klonen:
   
-  git clone  `git@github.com:Olexandr-Andriyenko/abschlussprojekt.git` <project_name>
+  git clone  `git@github.com:predragt565/dataplus-abschlussprojekt.git` <project_name>
   
 - Gehe dann in das Projektverzeichnis:
   

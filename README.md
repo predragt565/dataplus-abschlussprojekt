@@ -143,10 +143,11 @@ In your case the port could be different.-->
 
 ## Useful information
 
-- [React Documentation](https://react.dev/learn/installation)
-- [Flask Documentation](https://flask.palletsprojects.com/en/3.0.x/)
-- [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
-- [VITE](https://vitejs.dev/)
+- [Python](https://www.python.org/)
+- [Kaggle](https://flask.palletsprojects.com/en/3.0.x/)
+- [Power BI](https://powerbi.microsoft.com/)
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
